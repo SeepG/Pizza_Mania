@@ -25,10 +25,15 @@ Instructions for use:
 It initalizes options as per customer's input. We have tried an MVP version with two pizzas, toppings and crust. We can later scale it up to have more than one pizza in one order.
 
 Screenshots
-Details of design & planning process including,
-Evidence of app idea brainstorming sessions
-app User/Workflow diagram
-Project plan & timeline
+
+-  Details of design & planning process including,
+
+-  Evidence of app idea brainstorming sessions
+
+-  Application User/Workflow diagram
+
+-  Project plan & timeline
+
 Screenshots of Trello board(s)
 
 To directly insert a picture into your readme you could put your images in a `docs` folder in your GitHub then in the README.md you can display it with `<img src=./docs/imagename.jpg>` :slightly_smiling_face:
