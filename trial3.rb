@@ -1,5 +1,5 @@
-require 'colorize'
-require 'colorized_string'
+require 'colorize' #To introduce color
+require 'colorized_string'#To introduce text color
 require 'pry'
 
 puts ColorizedString[" Welcome to Pizza Mania!!"].colorize(:color => :white, :background => :red)
@@ -9,7 +9,7 @@ puts
 puts "Our pizzas are made with fresh dough, come in generous (read large) size and have dollops of cheese". colorize(:red)
 puts
 
-pizza_menu = {
+pizza_menu = { #Nested hash for pizza, crust and toppings
     "1" => {
         "name"=>"Veggie Supreme",
         "price"=> 10,
@@ -38,13 +38,13 @@ toppings_menu = {
       "name"=>"Bacon",
       "price"=> 3}
 }
-def getUserInput(menu,item) 
-  selectedItem = "" 
-  puts ("What #{item} would you like today?")
+def getUserInput(menu,item) #To access the values of pizza, crust and toppings we use methods
+  selectedItem = "" #initialising selectedItem to empty string
+  puts ("What #{item} would you like today?") #item corresponds to the value of pizza or crust or toppings
   puts ("Select an option from below (0 to cancel)")
-  while selectedItem != "0"
+  while selectedItem != "0" #As long as selected Item is not equal to 0, the loop will execute
     menu.each do |option_number, type|
-      puts "#{option_number}. #{type['name']} $#{type['price']}"
+      puts "#{option_number}. #{type['name']} $#{type['price']}" 
     end
     selectedItem = gets.chomp()
     if(selectedItem == "1" || selectedItem == "2")
