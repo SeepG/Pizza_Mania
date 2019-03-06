@@ -47,3 +47,5 @@ def getUserInput(menu,item)
   end
 end
 selectedPizza = getUserInput(pizza_menu, "pizza")
+selectedCrust = getUserInput(crust_menu, "crust")
+selectedToppings = getUserInput(toppings_menu,"toppings")
