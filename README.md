@@ -22,12 +22,11 @@ Purpose: The purpose was to create an application for a small business and with 
 Functionality: Users come to the website and can select their pizzas, crust and toppings and place their order.
 
 Instructions for use:
-It initalizes options as per customer's input. We have tried an MVP version with two pizzas, toppings and crust. We can later scale it up to have more than one pizza in one order and include drinks.
+It initalizes options as per customer's input. We have tried an MVP version with two pizzas, toppings and crust. We can later scale it up to have more than one pizza in one order, include drinks and taking credit card payment. If we have had more time, we could have included more classes.
 
-We have not used any seperate files or modules. Although we have used classes and methods inorder to avoid repeating codes for pizza, crust and toppings. 
+We have not used any seperate files or modules. Although, we have used classes and methods inorder to avoid repeating the codes for pizza, crust and toppings. 
 
-
-Screenshots:
+Screenshots capture our ideation to execution stages. We have tried to spend more time together to get app running. 
 
 -  Evidence of app idea brainstorming sessions
 
@@ -39,15 +38,22 @@ https://raw.githubusercontent.com/SeepG/Pizza_Mania/master/docs/Ideation-1.JPG
 
 https://raw.githubusercontent.com/SeepG/Pizza_Mania/master/docs/Ideation-2.JPG
 
+Slack communication 
+
+https://raw.githubusercontent.com/SeepG/Pizza_Mania/master/docs/Slack_communication.png
+
 -  Details of design & planning process including
 
 Design flow 
+
 https://raw.githubusercontent.com/SeepG/Pizza_Mania/master/docs/Design%20flow-Pizza%20Mania.JPG
 
 Code structure
+
 https://raw.githubusercontent.com/SeepG/Pizza_Mania/master/docs/Code%20structure.JPG
 
 Code structure division for Seep and Sree
+
 https://raw.githubusercontent.com/SeepG/Pizza_Mania/master/docs/Codestructure.division.JPG
 
 https://raw.githubusercontent.com/SeepG/Pizza_Mania/master/docs/Trello-initial%20planning-5March.png
