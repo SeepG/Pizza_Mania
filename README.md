@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/SeepG/Pizza_Mania/master/docs/Design%20flow-Pi
 Code structure
 https://raw.githubusercontent.com/SeepG/Pizza_Mania/master/docs/Code%20structure.JPG
 
-Code structure division
+Code structure division for Seep and Sree
 https://raw.githubusercontent.com/SeepG/Pizza_Mania/master/docs/Codestructure.division.JPG
 
 https://raw.githubusercontent.com/SeepG/Pizza_Mania/master/docs/Trello-initial%20planning-5March.png
