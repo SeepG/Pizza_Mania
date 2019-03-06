@@ -22,7 +22,10 @@ Purpose: The purpose was to create an application for a small business and with 
 Functionality: Users come to the website and can select their pizzas, crust and toppings and place their order.
 
 Instructions for use:
-It initalizes options as per customer's input. We have tried an MVP version with two pizzas, toppings and crust. We can later scale it up to have more than one pizza in one order.
+It initalizes options as per customer's input. We have tried an MVP version with two pizzas, toppings and crust. We can later scale it up to have more than one pizza in one order and include drinks.
+
+We have not used any seperate files or modules. Although we have used classes and methods inorder to avoid repeating codes for pizza, crust and toppings. 
+
 
 Screenshots:
 
